@@ -1,0 +1,4 @@
+node_modules/
+./apps.json
+package-lock.json
+key.json
